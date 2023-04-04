@@ -47,7 +47,7 @@
       <div class="container-fluid fixed-bottom p-4" style="background-color: #e2edff;">
         <div class="row">
           <div class="col-md">
-            <p class="text-center">Created with <i data-feather="coffee"></i> and <i data-feather="heart" style="color: red;"> </i><a href="https://masdedys.github.io/"> by mas_dedys</a>. | &copy; 2023</p>
+            <p class="text-center">Created with <i class="bi bi-cup-hot-fill"></i> and <i class="bi bi-heart-fill"></i> <a href="https://masdedys.github.io/"> by mas_dedys</a>. | &copy; 2023</p>
           </div>
         </div>
       </div>
